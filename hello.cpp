@@ -9,7 +9,7 @@ int main(){
     char special_char = '@';
     bool yes = true;
 
-    float ans;
+    
 
     ans = num + d_num;
  
